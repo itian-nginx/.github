@@ -4,3 +4,7 @@
   <img alt="NGINX Banner">
 </picture>
 
+<p>
+  NGINX 한국 총판 (주)아이티언에서 운영하는 NGINX STORE GitHub입니다. Cloud-Native 및 MSA(마이크로서비스 아키텍처) 환경에서 NGINX Plus 프로젝트를 가장 많이 그리고 성공적으로 수행하였습니다.
+</p>
+
